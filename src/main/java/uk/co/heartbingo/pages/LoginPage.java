@@ -50,6 +50,7 @@ public class LoginPage extends Utility {
     WebElement closeWindow;
 
 
+    // Verify Title of the page
     public void verifyTitleOfPage() {
         String actualTitle = driver.getTitle(); //getting title of page
         System.out.println("Current page title is: " + actualTitle); //Print title of page
