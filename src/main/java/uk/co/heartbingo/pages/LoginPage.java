@@ -59,6 +59,7 @@ public class LoginPage extends Utility {
         log.info("Verify user is on LoginPage: ");
     }
 
+    // Verify logo
     public void verifyLogo() throws InterruptedException {
         Thread.sleep(2000);// wait for element to displayed
         verifyLogoDisplayed(logo); //verify logo displayed on webpage
