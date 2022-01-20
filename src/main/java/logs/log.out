@@ -1,0 +1,67 @@
+2022-01-18 10:01:306 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-18 10:01:872 INFO  HomePage :33 - verifying Homepage URL. 
+2022-01-18 10:01:947 INFO  HomePage :41 - Verify Login Link  : Log In[[ChromeDriver: chrome on WINDOWS (715a6855f93d7f3704400817084a6842)] -> xpath: //a[contains(text(),'Log In')]]
+2022-01-18 10:01:124 INFO  HomePage :46 - Clicking on Login Button: 
+2022-01-18 10:01:171 INFO  LoginPage :59 - Verify user is on LoginPage: 
+2022-01-18 10:01:229 INFO  LoginPage :64 - Verifying logo HeartBingo. 
+2022-01-18 10:01:479 INFO  LoginPage :70 - Enter User Name: 'bob'
+2022-01-18 10:01:562 INFO  LoginPage :75 - Enter Password: 'bob123'
+2022-01-18 10:01:644 INFO  LoginPage :80 - Clicking on Login button. 
+2022-01-18 10:01:928 INFO  LoginPage :86 - Verify error message : 'The username or password you entered is incorrect. Please try again.'
+2022-01-18 10:01:18 INFO  LoginPage :92 - Clicking on X to close window. 
+2022-01-18 10:01:23 INFO  HomePage :54 - Verify user is on HomePage: 
+2022-01-18 10:01:652 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-18 10:01:197 INFO  HomePage :33 - verifying Homepage URL. 
+2022-01-18 10:01:231 INFO  HomePage :41 - Verify Login Link  : Log In[[ChromeDriver: chrome on WINDOWS (66af4d89c0f6c1f76f07537d86979785)] -> xpath: //a[contains(text(),'Log In')]]
+2022-01-18 10:01:434 INFO  HomePage :46 - Clicking on Login Button: 
+2022-01-18 10:01:570 INFO  LoginPage :59 - Verify user is on LoginPage: 
+2022-01-18 10:01:720 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-18 10:01:600 INFO  HomePage :33 - verifying Homepage URL. 
+2022-01-18 10:01:635 INFO  HomePage :41 - Verify Login Link  : Log In[[ChromeDriver: chrome on WINDOWS (8f9bd200afc6d12b5186455f5e8aeb00)] -> xpath: //a[contains(text(),'Log In')]]
+2022-01-18 10:01:732 INFO  HomePage :46 - Clicking on Login Button: 
+2022-01-18 10:01:761 INFO  LoginPage :58 - Verify user is on LoginPage: 
+2022-01-18 10:01:797 INFO  LoginPage :64 - Verifying logo HeartBingo. 
+2022-01-18 10:01:887 INFO  LoginPage :70 - Enter User Name: 'bob'
+2022-01-18 10:01:960 INFO  LoginPage :75 - Enter Password: 'bob123'
+2022-01-18 10:01:43 INFO  LoginPage :80 - Clicking on Login button. 
+2022-01-18 10:01:316 INFO  LoginPage :86 - Verify error message : 'The username or password you entered is incorrect. Please try again.'
+2022-01-18 10:01:399 INFO  LoginPage :92 - Clicking on X to close window. 
+2022-01-18 10:01:404 INFO  HomePage :53 - Verify user is on HomePage: 
+2022-01-18 10:01:59 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-18 10:01:842 INFO  HomePage :33 - verifying Homepage URL. 
+2022-01-18 10:01:136 INFO  HomePage :41 - Verify Login Link  : Log In[[ChromeDriver: chrome on WINDOWS (d1c38519dd0f5edc307d1b341b3301e8)] -> xpath: //a[contains(text(),'Log In')]]
+2022-01-18 10:01:332 INFO  HomePage :46 - Clicking on Login Button: 
+2022-01-18 10:01:340 INFO  LoginPage :58 - Verify user is on LoginPage: 
+2022-01-18 10:01:380 INFO  LoginPage :64 - Verifying logo HeartBingo. 
+2022-01-18 10:01:471 INFO  LoginPage :70 - Enter User Name: 'bob@gmail.com'
+2022-01-18 10:01:524 INFO  LoginPage :75 - Enter Password: 'bob123'
+2022-01-18 10:01:605 INFO  LoginPage :80 - Clicking on Login button. 
+2022-01-18 10:01:824 INFO  LoginPage :86 - Verify error message : 'The username or password you entered is incorrect. Please try again.'
+2022-01-18 10:01:904 INFO  LoginPage :92 - Clicking on X to close window. 
+2022-01-18 10:01:910 INFO  HomePage :53 - Verify user is on HomePage: 
+2022-01-18 10:01:264 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-18 10:01:976 INFO  HomePage :33 - verifying Homepage URL. 
+2022-01-18 10:01:16 INFO  HomePage :41 - Verify Login Link  : Log In[[ChromeDriver: chrome on WINDOWS (9eb6f6598dbedbeccd7905afaac6e0c4)] -> xpath: //a[contains(text(),'Log In')]]
+2022-01-18 10:01:106 INFO  HomePage :46 - Clicking on Login Button: 
+2022-01-18 10:01:131 INFO  LoginPage :58 - Verify user is on LoginPage: 
+2022-01-18 10:01:167 INFO  LoginPage :64 - Verifying logo HeartBingo. 
+2022-01-18 10:01:262 INFO  LoginPage :70 - Enter User Name: 'bob'
+2022-01-18 10:01:347 INFO  LoginPage :75 - Enter Password: 'bob123'
+2022-01-18 10:01:419 INFO  LoginPage :80 - Clicking on Login button. 
+2022-01-18 10:01:747 INFO  LoginPage :86 - Verify error message : 'The username or password you entered is incorrect. Please try again.'
+2022-01-18 10:01:834 INFO  LoginPage :92 - Clicking on X to close window. 
+2022-01-18 10:01:845 INFO  HomePage :53 - Verify user is on HomePage: 
+2022-01-18 10:01:488 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-18 10:01:290 INFO  HomePage :33 - verifying Homepage URL. 
+2022-01-18 10:01:416 INFO  HomePage :41 - Verify Login Link  : Log In[[ChromeDriver: chrome on WINDOWS (8330ae600237c95a3d177496fc79195f)] -> xpath: //a[contains(text(),'Log In')]]
+2022-01-18 10:01:534 INFO  HomePage :46 - Clicking on Login Button: 
+2022-01-18 10:01:566 INFO  LoginPage :58 - Verify user is on LoginPage: 
+2022-01-18 10:01:606 INFO  LoginPage :64 - Verifying logo HeartBingo. 
+2022-01-18 10:01:700 INFO  LoginPage :70 - Enter User Name: 'bob@gmail.com'
+2022-01-18 10:01:758 INFO  LoginPage :75 - Enter Password: 'bob123'
+2022-01-18 10:01:828 INFO  LoginPage :80 - Clicking on Login button. 
+2022-01-18 10:01:95 INFO  LoginPage :86 - Verify error message : 'The username or password you entered is incorrect. Please try again.'
+2022-01-18 10:01:170 INFO  LoginPage :92 - Clicking on X to close window. 
+2022-01-18 10:01:178 INFO  HomePage :53 - Verify user is on HomePage: 
+2022-01-18 12:01:821 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-01-18 12:01:103 INFO  HomePage :33 - verifying Homepage URL. 
